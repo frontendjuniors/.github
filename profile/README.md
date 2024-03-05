@@ -10,7 +10,7 @@
 
 <p> Лучший помощник по подготовке к собеседованию по Front-End разработке. </p>
 
-## Список основных тем, которые есть в базе frontendjuniors: 
+## Список основных тем, которые есть у нас на сайте frontendjuniors: 
 
 <ol>
   <li> HTML — <a href="https://frontendjuniors.netlify.app/html" target="_blank"> frontendjuniors/html </a> </li>
@@ -25,5 +25,5 @@
 
 <br />
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/bd050068-fc27-4eb5-a94f-6de71481ed77/deploy-status)](https://app.netlify.com/sites/frontendjuniors/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7f486aa3-9f99-4399-913e-0b88e04da589/deploy-status)](https://app.netlify.com/sites/frontendjuniors/deploys)
 
