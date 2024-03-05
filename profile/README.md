@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://frontendjuniors.netlify.app/" target="_blank">
-    <img src="./fj.png" alt="frontendjuniors" />
+    <img src="fj.png" alt="frontendjuniors" />
   </a>
 </div>
 
