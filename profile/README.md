@@ -25,5 +25,4 @@
 
 <br />
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7f486aa3-9f99-4399-913e-0b88e04da589/deploy-status)](https://app.netlify.com/sites/frontendjuniors/deploys)
 
