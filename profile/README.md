@@ -10,7 +10,7 @@
 
 <p> Лучший помощник по подготовке к собеседованию по Front-End разработке. </p>
 
-## Список основных тем, которые есть у нас на сайте frontendjuniors: 
+## Список основных тем, которые есть на frontendjuniors.org: 
 
 <ol>
   <li> HTML — <a href="https://frontendjuniors.org/html" target="_blank"> frontendjuniors/html </a> </li>
